@@ -1,3 +1,3 @@
-#### MSTU 5013 Demo 1 - Riot Tag Mounting
+#### A&HA 5013 New Media New Forms
 
-This is a demo of how to mount a simple riot tag 
+Hey here is my blog posts 

@@ -1,4 +1,5 @@
 <week1>
+  <h1>Hi I'm Week 1</h1>
   <h1>Hello I'm {user}!</h1>
 
   <p>Originally from Beijing, Yuntong graduated Emerson College and now studies at Columbia University. She focuses on documentaries about social justices and development, and her short documentary Flowers of Marrakech has won 10 nomination and awards
