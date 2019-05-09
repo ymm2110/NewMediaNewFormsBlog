@@ -1,7 +1,7 @@
 <finalProject>
   <h1>Final Project Proposal</h1>
   <h2>Summary</h2>
-  <p><strong>Shadow Play</strong> (working title) is an interactive device inspired by tridational Chinese Shadow Play. Made by lease cut transparent Acrylic sheet, micro LED cell lights, motors, the device works with Microsoft kinect to mirror user's movements. </p>
+  <p><strong>Shadow Play</strong> is an interactive device inspired by tridational Chinese Shadow Play. Made by lease cut transparent Acrylic sheet, micro LED cell lights, motors, the device works with Microsoft kinect to mirror user's movements. </p>
 
   <p><br></p>
 
@@ -24,6 +24,18 @@
   <iframe src="//player.bilibili.com/player.html?aid=7584811&cid=12421025&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
   <h5>Modern Handmade Shadow Figures</h5>
   <iframe src="//player.bilibili.com/player.html?aid=30460224&cid=53152600&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+  <h2>Design</h2>
+  <img src="./images/design.png" alt="Shadow Play in Illustrator" width=400px;>
+  <img src="./images/print.png" alt="Illustrator File for Leser Cutter" width=400px;>
+
+  <h2>Production</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XNBoW-i_dQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <h2>Assembly</h2>
+  <img src="./images/IMG_8731.JPG" alt="Shadow Play in Illustrator" width=400px;>
+  <img src="./images/IMG_3202.JPG" alt="Shadow Play in Illustrator" width=400px;>
+  <img src="./images/IMG_8332.JPG" alt="Shadow Play in Illustrator" width=400px;>
 
   <p><br></p>
   <p>-------------------I'm a dividing line-------------------</p>
